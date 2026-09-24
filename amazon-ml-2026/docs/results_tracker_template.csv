@@ -1,0 +1,2 @@
+exp_id,who,date_time,model,features,cv_folds,cv_score,cv_std,public_lb,oof_file,notes
+1,,,tfidf_ridge,tfidf word+char,5 GroupKFold,,,,oof/tfidf_ridge_oof.npy,baseline
